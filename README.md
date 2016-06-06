@@ -1,2 +1,2 @@
-# Teaching parallel programming
+# Teaching parallel programming to freshmen
 
