@@ -1,2 +1,2 @@
-# Teaching parallelism
+# Teaching parallelism to freshmen
 
