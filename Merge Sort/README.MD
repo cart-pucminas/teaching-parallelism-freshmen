@@ -1,1 +1,1 @@
-# Two versions available: sequential and parallel
+# Two versions available: sequential and parallel 
