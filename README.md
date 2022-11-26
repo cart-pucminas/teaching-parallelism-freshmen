@@ -1,6 +1,7 @@
 # Teaching parallel programming to freshmen
 
 Computer Architecture and Parallel Processing Team (CArT)
+https://www.cart-research.com/home/cs-education
 
 Department of Computer Science - Pontifical Catholic University of Minas Gerais (PUC Minas)
 
